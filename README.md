@@ -6,5 +6,9 @@
 
 - HeadingNow
 - Burbank
-- NotoSans
 - Other fonts
+
+</div>
+<h2 align="center">Upcoming Fonts</h2>
+
+- NotoSans
