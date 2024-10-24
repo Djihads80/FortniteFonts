@@ -9,6 +9,6 @@
 - Other fonts
 
 </div>
-<h2 align="center">Upcoming Fonts</h2>
+<h2 align="left">Upcoming Fonts</h2>
 
 - NotoSans
