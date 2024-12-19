@@ -9,8 +9,3 @@
 - BrutalType
 - RocketLeague
 - Other fonts
-
-</div>
-<h2 align="left">Upcoming Fonts</h2>
-
-- NotoSans
