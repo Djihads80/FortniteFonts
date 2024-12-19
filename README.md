@@ -9,3 +9,8 @@
 - BrutalType
 - RocketLeague
 - Other fonts
+
+<h1 align="center"> </h1>
+
+<div align="center">
+<a href="https://github.com/Djihads80/FortniteFonts/releases/latest"><img src="https://raw.githubusercontent.com/Djihads80/FortniteFonts/refs/heads/main/legal.png" alt="logo"></a>
